@@ -1,7 +1,4 @@
-
-+ [免费编程中文书籍索引](/free-programming-books-zh.md)
-
-免费的编程中文书籍索引，欢迎投稿。
+免费的编程中文书籍索引
 
 国外程序员在 stackoverflow 推荐的程序员必读书籍，中文版。
 stackoverflow 上的程序员应该阅读的非编程类书籍有哪些？ 中文版
